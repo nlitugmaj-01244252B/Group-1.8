@@ -1,0 +1,8 @@
+
+========== NEW REPORT ==========
+Motor Name         : 2
+Rated Current      : 1 A
+Measured Current   : 2 A
+Current Difference : 1 A
+Status             : Overload Warning
+------------------------------------------
